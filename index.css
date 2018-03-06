@@ -1,0 +1,18 @@
+body {
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+li {
+  list-style-type: none;
+  border : 2px solid black;
+  height : 210px;
+  margin : 10px;
+  padding : 5px;
+  position : relative;
+}
+
+
+img {
+  float : right;
+}
